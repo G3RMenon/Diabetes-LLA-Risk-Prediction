@@ -11,3 +11,13 @@ Methodology Implemented :
 3.  Predictive Modeling: Implements six machine learning classifiers  to predict amputation risk
 
 4.  Model Interpretability (SHAP): Uses SHAP (SHapley Additive exPlanations) values to extract global feature importance, verifying that systemic markers like blood glucose and C-reactive protein (CRP) are the primary drivers of amputation risk rather than localized wound size
+
+
+### Citation
+
+If you find this repository or code useful in your research, please consider citing the following paper: 
+
+
+Menon, G. R., Jose, S. A., Jose, S., Thomas, J. K., & Jirawattanapanit, A. (2026). Predicting lower limb amputation risk based on clinical factors and wound characteristics using machine learning. Physica Scripta, 101, Article 105004
+
+Data Source Acknowledgment: The clinical dataset (shq_data.csv) used in this repository is publicly available 
